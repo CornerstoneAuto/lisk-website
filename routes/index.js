@@ -8,6 +8,7 @@ module.exports = {
 	contact_us: require('./contact_us.js'),
 	ico: require('./ico.js'),
 	careers: require('./careers.js'),
+	bounties: require('./bounties.js'),
 	delegates: require('./delegates.js'),
 	missing: require('./missing.js')
 }
